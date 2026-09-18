@@ -1,17 +1,17 @@
-# 👋 안녕하세요!
+# Introduction
 
-## 🎓 학력
+## 🎓 Education
 - 경희대학교 수학과 학사 졸업
 - 서울대학교 수리과학부 박사 졸업
 
-## 🛠️ 기술 스택
+## 🛠️ Tech Stack
 - C++
 - Python
 
-## 🔍 관심 분야
+## 🔍 Interests
 
 
-## 🚧 진행 중인 프로젝트
+## 🚧 Ongoing Project
 
 
 ## 📫 연락처
