@@ -1,8 +1,9 @@
 # Introduction
+Mathematician with a C++/Python background, moving between theory and implementation.
 
 ## 🎓 Education
-- 경희대학교 수학과 학사 졸업
-- 서울대학교 수리과학부 박사 졸업
+- B.S. in Mathematics, Kyung Hee University
+- Ph.D. in Mathematical Sciences, Seoul National University
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
